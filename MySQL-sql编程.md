@@ -1,6 +1,3 @@
----
-typora-copy-images-to: upload
----
 
 # MySQL-sql编程
 
