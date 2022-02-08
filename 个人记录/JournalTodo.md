@@ -25,15 +25,16 @@ Next Week Todo：
 
 ## 2022-01-26: Todo
 
-- [ ] 中央库存锁流水mapper   update  不使用，删除sql以及@Test
+- [x] 中央库存锁流水mapper   update  不使用，删除sql以及@Test
 - [x] 整理中央库存索引
 - [x] 中央库存数据看板PRD确认
 
 ## 2022-01-26: Todo
 
-- [ ] 中央库存索引测试环境测试
-- [ ] 中央库存不使用sql清理
+- [x] 中央库存索引测试环境测试
+- [x] 中央库存不使用sql清理
 - [x] JVM学习整理
-- [ ] MySQL索引原理整理
+- [x] MySQL索引原理整理
 - [ ] blade数据同步
 - [ ] blade数据库学习整理
+- [ ] 渠道服务上线单测修复
